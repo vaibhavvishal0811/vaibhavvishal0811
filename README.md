@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vaibhav Vishal
-- 👀 I’m interested in Data Analysis and Data Science
+- 👀 I’m a Data Analyst
 - 📫 Need to reach me? Call 5104499939
 
 <!---
